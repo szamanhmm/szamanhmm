@@ -1,5 +1,5 @@
 ## Hello there 👋
-I am Saifuzzaman | SQA Engineer | Expert in Manual Testing | Aspiring Team Lead
+I am Saifuzzaman | SQA Engineer | Expert in Manual Testing & Automation Testing
 
 - 🔭 Currently, I’m immersed in a Supply Chain Finance Test Automation Project 
 - 🌱 I’m currently learning Api Automation Testing
